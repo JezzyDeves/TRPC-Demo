@@ -5,6 +5,7 @@
   "main": "./dist/index.js",
   "scripts": {
     "build": "tsc",
+    "watch": "tsc -w",
     "serve": "node ./dist/server.js"
   },
   "keywords": [],
